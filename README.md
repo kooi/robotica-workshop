@@ -8,3 +8,8 @@ Er is een getal in de code die de tijd aangeeft tussen het knipperen van de LED.
 
 ## Frowny to Smiley
 ### Opdracht 2
+Het gezichtje op de matrix ziet er een beetje verdrietig uit. Zorg ervoor dat hij weer lacht. Gebruik deze website: http://www.pial.net/8x8-dot-matrix-font-generator-based-on-javascript-and-html/
+
+### Opdracht 3
+Bedenk een eigen animatie van minimaal 2 frames. 
+
