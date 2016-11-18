@@ -28,7 +28,7 @@ Ga naar de map robotica workshop
 
 
 ### 3. Smiley
-1.
+1. Bedraad de arduino volgens dit [schema](). Gebruik het commentaar bij de code.
 2. Upload de sketch [Plaatje.ino](https://github.com/kooi/robotica-workshop/blob/master/code/Plaatje/Plaatje.ino)
 3. Het gezichtje op de matrix ziet er een beetje verdrietig uit. Zorg ervoor dat hij weer lacht.
 4. Maak nu je eigen plaatje. Je kunt evt. gebruik maken van de volgende [site](http://www.pial.net/8x8-dot-matrix-font-generator-based-on-javascript-and-html/)
