@@ -38,6 +38,8 @@ Ga naar de map robotica workshop
 
 
 ### 2. Knop
+1. Bedraad de arduino met een LED een knopje volgens dit [schema](https://github.com/kooi/robotica-workshop/blob/master/code/Knop/Bedrading%20Knop.pdf). [Hier is nog een schematische weergave](https://github.com/kooi/robotica-workshop/blob/master/code/Knop/Bedrading%20knop%20schematisch.jpg)
+
 
 
 ### 3. Smiley
