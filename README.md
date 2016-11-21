@@ -6,12 +6,19 @@ Ga naar de map robotica workshop
 
 ## Getting Started
 (een paar korte opmerkingen over het gebruik van Arduino-bordjes.)
+
 . Arduino-omgeving
+
 . Gebruik Arduino (Pro Micro 5V, 16MHz)
+
 . selectie board (!)
+
 . upload-procedure
+
 . Hardwaregebruik
+
 . kortsluiten !
+
 . "live" bedraden
 
 ## Opdrachten
@@ -20,7 +27,9 @@ Ga naar de map robotica workshop
 ### 1. Blink
 1. Sluit de arduino aan volgens het weergegeven schema. 
 ![Blink bedrading](https://github.com/kooi/robotica-workshop/blob/master/code/Blink/Blink%20bedrading..pdf)
+  
   . 1 draad van 10 naar de plus van de LED (het lange pootje).
+  
   . Een weesrtand (220 Ohm) van de min van de LED naar GND.
   
   LET OP: Laat je bedrading telkens controleren voordat je de arduino aansluit.
@@ -33,10 +42,15 @@ Ga naar de map robotica workshop
 
 ### 3. Smiley
 1. Bedraad de arduino met de LED matrix volgens dit lijstje:(Zorg ervoor dat je de draden aansluit aan de IN-kant, en de matrix niet verkeerd om hebt geplaatst.)
+ 
  . GND naar GND.
+ 
  . VCC naar VCC.
+ 
  . DataIn naar D9
+ 
  . CLK naar D8
+ 
  . CS/LOAD naar D7
  
 2. Upload de sketch [Plaatje.ino](https://github.com/kooi/robotica-workshop/blob/master/code/Plaatje/Plaatje.ino)
