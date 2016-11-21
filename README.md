@@ -21,6 +21,8 @@ Ga naar de map robotica workshop
 
 . "live" bedraden
 
+. Laat steeds je bedradingen controleren! We willen geen doorgebrande chips.
+
 ## Opdrachten
 
 
