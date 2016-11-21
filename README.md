@@ -33,8 +33,8 @@ Ga naar de map robotica workshop
   . Een weesrtand (220 Ohm) van de min van de LED naar GND.
   
   LET OP: Laat je bedrading telkens controleren voordat je de arduino aansluit.
-2. Upload de sketch [Blink.ino](./code/Blink/Blink.ino). Als werkt gaat de LED telkens 1,0 s aan en dan 1,0 s uit.
-3. Pas de code aan dat opdat de knipperfrequentie 10 Hz is.
+2. Upload de sketch [Blink.ino](./code/Blink/Blink.ino). Als het werkt gaat de LED telkens 1,0 s aan en dan 1,0 s uit.
+3. Pas de code aan zodat de knipperfrequentie 10 Hz is.
 
 
 ### 2. Knop
