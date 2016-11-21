@@ -26,7 +26,7 @@ Ga naar de map robotica workshop
 
 ### 1. Blink
 1. Sluit de arduino aan volgens het weergegeven schema. 
-![Blink bedrading](https://github.com/kooi/robotica-workshop/blob/master/code/Blink/Blink%20bedrading..pdf)
+[Blink bedrading](https://github.com/kooi/robotica-workshop/blob/master/code/Blink/Blink%20bedrading..pdf)
   
   . 1 draad van 10 naar de plus van de LED (het lange pootje).
   
