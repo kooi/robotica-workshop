@@ -19,7 +19,7 @@ Ga naar de map robotica workshop
 
 ### 1. Blink
 1. Sluit de arduino aan volgens het hieronder weergegeven schema.
-![Blink bedrading](https://github.com/kooi/robotica-workshop/blob/master/code/Blink/Blink%20Bedrading.pdf)
+![Blink bedrading](https://github.com/kooi/robotica-workshop/blob/master/code/Blink/Blink%20bedrading..pdf)
 2. Upload de sketch [Blink.ino](./code/Blink/Blink.ino). Als werkt gaat de LED telkens 1,0 s aan en dan 1,0 s uit.
 3. Pas de code aan dat opdat de knipperfrequentie 10 Hz is.
 
