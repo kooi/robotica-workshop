@@ -4,9 +4,9 @@
 /*
  Now we need a LedControl to work with.
  
- pin 12 is connected to the DataIn 
- pin 11 is connected to the CLK 
- pin 10 is connected to LOAD 
+ pin 9 is connected to the DataIn 
+ pin 8 is connected to the CLK 
+ pin 7 is connected to LOAD 
  We have only a single MAX72XX.
  */
 LedControl lc=LedControl(9,8,7,1);
